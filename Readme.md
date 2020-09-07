@@ -1,7 +1,8 @@
 # Личный проект «Девайс»
 
 * Студент: [Владимир Воронин](https://up.htmlacademy.ru/htmlcss/29/user/1407163).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Приходкин] [https://htmlacademy.ru/profile/prikhodkin]
+.
 
 ---
 
